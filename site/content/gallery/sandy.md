@@ -1,5 +1,5 @@
 ---
 title: sandy
-image: /src/img/gallery/sandy.jpeg
+image: /img/gallery/sandy.jpeg
 ---
 
